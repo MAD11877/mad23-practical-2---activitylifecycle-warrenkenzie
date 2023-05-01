@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practical2</string>
+    <string name="nav_name">MADPractical</string>
+    <string name="toggle_button">FOLLOW</string>
+    <string name="toggle_button_off">UNFOLLOW</string>
+    <string name="messagebtn">MESSAGE</string>
+    <string name="textbox">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</string>
+</resources>
